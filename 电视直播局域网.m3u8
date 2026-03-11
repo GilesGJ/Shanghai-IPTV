@@ -272,15 +272,15 @@ http://r.jdshipin.com/vSJvl
 http://r.jdshipin.com/TcKr2
 #EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/HOY TV.png" group-title="港澳代理",HOY TV
 http://r.jdshipin.com/sFw4S
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/TTV2.png" group-title="港澳代理",HOY TV
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/TTV2.png" group-title="港澳代理",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/CTI2.png" group-title="港澳代理",HOY TV
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/CTI2.png" group-title="港澳代理",中天新闻
 https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/CTV1.png" group-title="港澳代理",HOY TV
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/CTV1.png" group-title="港澳代理",中视新闻
 https://stream1.freetv.fun/5f3d68b2efc102fc2339fa5b60d4b2abde1aa0bb446fb9fabe6cf9a7ab38198f.m3u8
-#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/SET2.png" group-title="港澳代理",HOY TV
+#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/SET2.png" group-title="港澳代理",三立新闻
 https://stream1.freetv.fun/40730e5040013825b1badb3d180fa6022bc81c8afe86a5d6ece6bc83e1566a56.m3u8
-#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/FTV1.png" group-title="港澳代理",HOY TV
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/FTV1.png" group-title="港澳代理",民视新闻台
 https://stream1.freetv.fun/a6dd48cff68c1da6ae33d7a2d962ab66d11a3791c0f133b0cd3bbbf99ea8b3c8.m3u8
-#EXTINF:-1 tvg-name="TVBS新聞HD" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/TVBS1.png" group-title="港澳代理",HOY TV
+#EXTINF:-1 tvg-name="TVBS新聞HD" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/TVBS1.png" group-title="港澳代理",TVBS新聞HD
 https://stream1.freetv.fun/fe6a507303ec6ae76614a96ee48f5844ea4e7636314c1011a22aa4af8269a7a1.ctv
