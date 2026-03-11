@@ -275,7 +275,7 @@ http://r.jdshipin.com/sFw4S
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/TTV2.png" group-title="港澳代理",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/CTI2.png" group-title="港澳代理",中天新闻
-https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8
+rtmp://yj.zxhkuav.cn/live/yifatv-ztxw
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/CTV1.png" group-title="港澳代理",中视新闻
 https://stream1.freetv.fun/5f3d68b2efc102fc2339fa5b60d4b2abde1aa0bb446fb9fabe6cf9a7ab38198f.m3u8
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://gitee.com/wuxiyihu/logo/raw/master/tv/SET2.png" group-title="港澳代理",三立新闻
